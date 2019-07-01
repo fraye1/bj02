@@ -1,0 +1,4 @@
+from django.http import Httprequest
+
+def index(request):
+	return Httpdsfhgbsfdh 
