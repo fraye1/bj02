@@ -1,4 +1,9 @@
 from django.http import Httprequest
 
 def index(request):
-	return Httpdsfhgbsfdh 
+	return Httpdsfhgbsfd
+
+
+def index2(request):
+
+	sfdgdfhgsdfh 
